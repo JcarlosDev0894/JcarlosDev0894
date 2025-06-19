@@ -12,7 +12,7 @@ colaborativo y DevOps.
 ## Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JcarlosDev0894&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-
-langs/?username=JcarlosDev0894&layout=compact&theme=radical)
+langs/?username=[JcarlosDev0894]&layout=compact&theme=radical)
 ## Proyectos destacados
 - **[github-course-lab1](https://github.com/curso-molina/github-course-lab1)** -
 Laboratorio de configuración inicial
