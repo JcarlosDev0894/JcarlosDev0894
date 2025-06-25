@@ -24,8 +24,8 @@ Publicado con GitHub Pages
 - [ ] Implementar GitOps
 - [ ] Contribuir a proyectos open source
 ## Cómo contactarme
-- **Email:** [tu-email@ejemplo.com]
-- **LinkedIn:** [tu-perfil-linkedin]
+- **Email:** carlostestdev123@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/josecarlosma1994/)
 - **GitHub:** [@tu-username](https://github.com/JcarlosDev0894)
 ## Badges del curso
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-
